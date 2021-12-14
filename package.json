@@ -15,10 +15,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://vivekpandey.live"
+    "url": "https://github.com/Vivek-Py/capacitor-swipe-scroll-bounce-ios.git"
   },
   "bugs": {
-    "url": "https://vivekpandey.live"
+    "url": "https://github.com/Vivek-Py/capacitor-swipe-scroll-bounce-ios/issues"
   },
   "keywords": [
     "capacitor",
